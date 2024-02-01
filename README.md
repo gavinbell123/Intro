@@ -1,1 +1,4 @@
 # Intro
+<img src="unnamed(1).jpg" alt="picture of me">
+<p>I’m a computer science major. At my spring semester, I took computer science but had to retake in the fall semester. I later took computer science 2 the following semester and computer science 3 and assembly language. The languages I learned are Java and Assembly, along with a little bit of C. I haven’t really programmed anything but I did do three projects for Assembly.</p>
+<p>I can see myself using many of the skills I learned from the semester. Most of the other computer science courses don’t really show me how I’ll be applying what I learned that much. Meanwhile, this course provides an example of how these skills would translate in the real world. In this course, I will be programming an app and I could use these skills to help make something similar in the future. I could also see myself design websites for potential companies I’m employed at.</p>
